@@ -1,0 +1,31 @@
+_repo: The-Religion-of-Ancient-PalestineIn-the-Second-Millenium-B.C._41704
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41704-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Cook, Stanley Arthur
+    alias: Cook, S. A. (Stanley Arthur)
+    birthdate: 1873
+    deathdate: 1949
+    gutenberg_agent_id: '41311'
+    url: http://www.gutenberg.org/2009/agents/41311
+description: ''
+gutenberg_issued: '2012-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41704'
+  lccn: w09000104
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Antiquities'
+- !lcc 'BL'
+- !lcsh 'Palestine -- Religion'
+- !lcsh 'Excavations (Archaeology) -- Palestine'
+- !lcsh 'Palestine -- Antiquities'
+title: The Religion of Ancient Palestine in the Second Millenium B.C.
+url: http://www.gutenberg.org/ebooks/41704
